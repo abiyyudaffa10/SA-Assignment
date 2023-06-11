@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+body {
+  font-family: "Poppins";
+}
+
+#Home {
+  background-color: #03045e;
+  height: 975px;
+}
+
+#Home h1 {
+  color: #04a0f5;
+  font-size: 20px;
+}
+
+#Home h5 {
+  color: #04a0f5;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#Home h5 {
+  color: #03045e;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#Home p {
+  color: #03045e;
+  font-size: 15px;
+}
+
+#Home .card {
+  transition: all 0.4s;
+  background-color: #04a0f5;
+}
+
+#Home .card:hover {
+  transform: scale(1.07);
+}

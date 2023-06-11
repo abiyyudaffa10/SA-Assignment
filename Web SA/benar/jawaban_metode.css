@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+body {
+  font-family: "Poppins";
+  color: #04a0f5;
+}
+
+#Benar {
+  background-color: #03045e;
+  height: 975px;
+}
+
+#Benar img {
+  width: 150px;
+  padding-top: 250px;
+}
+
+#Benar h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 75px;
+}
+
+#Benar .desc p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 38px;
+  text-align: center;
+}
+
+.btn-1 {
+  height: 50px;
+  border-color: #0066ff;
+  width: 100%;
+  min-height: 200;
+  border-radius: 15px;
+  transition: all 0.4s;
+}
+
+.btn-desc {
+  padding-top: 0.2rem;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+}
+.btn-1:hover {
+  background-color: #0066ff;
+}
